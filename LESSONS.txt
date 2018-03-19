@@ -1,0 +1,12 @@
+
+https://codewithmosh.teachable.com/courses/angular-master-class/lectures/3457376
+
+
+https://www.youtube.com/watch?v=k5E2AVpwsko
+9 course structure  29:10
+typescript fundamentals  31:58
+angular fundamentals 1:23:54
+creating components using angular  1:37:02
+templates 1:41:40
+services 1:47:36
+
